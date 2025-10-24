@@ -35,6 +35,6 @@ Beyond the code editor, I have two main passions:
 
 I'm always open to discussing new ideas, collaborations, or opportunities in the serious games space.
 
-* 📷 **Flickr:** - https://flickr.com/photos/203708132@n04
+* 📷 **Flickr:** - https://flickr.com/photos/203708132@N04
 * 🎨 **ArtStation:** - https://JD_Latham.artstation.com
 * 📧 **Email:** - JD_LATHAM@OUTLOOK.COM
